@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/smit-vavliya-300820202/" rel="nofollow">Umang!</a>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/umang-kaswala/" rel="nofollow">Umang!</a>
 
 <!--
 <a href="https://www.linkedin.com/in/smit-vavliya-300820202/" rel="nofollow">
