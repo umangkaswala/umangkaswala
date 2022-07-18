@@ -1,5 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/smit-vavliya-300820202/" rel="nofollow">Smit!</a>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/smit-vavliya-300820202/" rel="nofollow">Umang!</a>
 
+<!--
 <a href="https://www.linkedin.com/in/smit-vavliya-300820202/" rel="nofollow">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="max-width: 100%;"/>
 </a>
@@ -21,6 +22,7 @@
 <a href="" rel="nofollow">
     <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" style="max-width: 100%;"/>
 </a>
+-->
 
 ## About Me 🚀
 🎓 An Engineering and Product enthusiast, highly motivated and interested in Software Development and solving problems for the people and building something which they need with the help of Technology and Applications. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.
